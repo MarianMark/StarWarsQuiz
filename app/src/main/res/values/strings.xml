@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="Star_Wars_Quiz">Star Wars Quiz</string>
+    <string name="fan">Are you really a Star wars fan?</string>
+    <string name="fq">1) Which one is the first Star Wars episode ?</string>
+    <string name="onea">A NEW HOPE</string>
+    <string name="oneb">THE PHANTOM MENACE</string>
+    <string name="onec">THE FORCE AWAKENS</string>
+    <string name="sq">2) How old was Master Yoda when he died ?</string>
+    <string name="twoa">90 years old</string>
+    <string name="towb">1000 years old</string>
+    <string name="twoc">900 years old</string>
+    <string name="tq">3) Anakin Skywalker had a padawan. What was her name ?</string>
+    <string name="threea">Ahsoka Tano</string>
+    <string name="threeb">Eldra Kaitis</string>
+    <string name="threec">Padme</string>
+    <string name="foq">4) What was Rey before she got involved with the Resistance?</string>
+    <string name="foura">A scavanger</string>
+    <string name="fourb">A maintanance worker</string>
+    <string name="fourc">A Jedi</string>
+    <string name="fvq">5) Who was the Sith Lord that defeated the Jedi Order ?</string>
+    <string name="fivea">Darth Vader</string>
+    <string name="fiveb">Darth Revan</string>
+    <string name="fivec">Darth Sidious</string>
+    <string name="siq">6) After serving Queen Amidala ,  R2D2  stayed with:</string>
+    <string name="sixa">Obi-Wan Kenobi</string>
+    <string name="sixb">Luke Skywalker</string>
+    <string name="sixc">Anakin Skywalker</string>
+
+    <string name="submit">Submit</string>
+    <string name="message">You achieved </string>
+
+</resources>
